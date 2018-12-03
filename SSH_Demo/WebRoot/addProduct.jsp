@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>保存商品的页面</title>
 </head>
 <body>
 <h1>保存商品的页面</h1>
